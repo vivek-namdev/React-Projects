@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid black;
+    background-color: aqua;
+}
+
+.dashboard {
+    text-align: center;
+}
+
+.button {
+    font-size: medium;
+    width: 5rem;
+    height: 3rem;
+    margin-top: 15px;
+    margin-right: 15px;
+    background-color: aquamarine;
+    border: 3px solid black;
+}
